@@ -1,0 +1,14 @@
+yarn install
+
+yarn add nodemon
+
+/*
+yarn add sqlite3
+yarn add oracledb
+yarn add postgresql
+yarn add md5
+*/
+
+cd material-react-mobx
+
+yarn install
